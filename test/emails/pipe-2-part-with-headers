@@ -1,0 +1,13 @@
+Content-Type: multipart/alternative; boundary=MMS1234567890
+
+--MMS1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Plain text message here
+--MMS1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p>HTML message here</p>
+--MMS1234567890--
