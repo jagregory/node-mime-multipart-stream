@@ -3,7 +3,7 @@
     "node": ">= 0.10"
   },
   "name": "mime-multipart-stream",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Create a readable stream composed of multiple parts of an overall MIME multipart section",
   "main": "lib/mime-multipart-stream.js",
   "scripts": {
