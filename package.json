@@ -28,7 +28,7 @@
     "tape": "~1.0.4"
   },
   "dependencies": {
-    "mime-part-stream": "~0.3.2",
+    "mime-part-stream": "^0.4.0",
     "sandwich-stream": "0.0.4",
     "mime-headers": "0.0.1"
   }
